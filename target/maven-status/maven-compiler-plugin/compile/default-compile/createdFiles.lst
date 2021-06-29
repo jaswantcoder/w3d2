@@ -1,0 +1,5 @@
+com\sapient\dao\ProductDao.class
+com\sapient\config\AppConfig.class
+com\sapient\entity\Product.class
+com\sapient\web\controllers\ProductsController.class
+com\sapient\dao\JpaProductDao.class
